@@ -1,6 +1,8 @@
-# CS50 AI Sample Projects
+# CS50 AI 
 
-This repository contains a set of small, functional examples inspired by the topics in CS50's Introduction to Artificial Intelligence course. Each week folder includes a standalone Python program demonstrating a concept.
+These are my project solutions for the CS50AI course.
+
+*If you are currently taking the course please check the academic integrity rules before going through this repositroy*
 
 - **week0-search**: Basic breadth-first search on a tiny social graph.
 - **week1-tictactoe**: Playable Tic Tac Toe using the minimax algorithm.
